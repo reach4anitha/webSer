@@ -21,6 +21,6 @@ public class MyResource {
     @Produces(MediaType.TEXT_PLAIN)
     
     public String getIt() {
-        return "Hello world!";
+        return "Welcome Jayandh!";
     }
 }
